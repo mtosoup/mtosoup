@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mtosoup
-- 👀 I’m interested in building engaging apps for education
-- 🌱 I’m currently learning html, css, javascript
-- 💞️ I’m looking to collaborate on projects related to education
+- 👀 I’m interested in building engaging apps that are useful for education.
+- 🌱 I’m currently learning html, css, javascript.
+- 💞️ I’m looking to collaborate on projects related html, css, javascript, and/or education.
 - 📫 How to reach me ...
 
 <!---
